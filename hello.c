@@ -1,3 +1,2 @@
-printf("hello c");
+printf("hello world");
 #123
-
